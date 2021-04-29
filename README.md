@@ -14,7 +14,7 @@ HTML에서 가장 중요한 것은 태그다. 태그를 사용함으로써 우�
 (참고로 태그는 여는 태그 <> 와 닫는 태그 </>가 있다.)
 
 <h3>3. 기본 태그 정리</h3>
-<a href ="https://jonhyuk0922.tistory.com/120" target="_blank>조녁코딩일기</a>
+<a href ="https://jonhyuk0922.tistory.com/120" target="_blank">조녁코딩일기</a>
 
 <h3>4. 인터넷과 웹</h3>
 
